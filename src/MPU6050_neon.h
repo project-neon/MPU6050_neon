@@ -23,7 +23,7 @@ class MPU6050{
   void begin();
 
   void setGyroOffsets(float x, float y, float z);
-  void restartXYZValues();
+  void restartXYZAnglesValues();
 
   void writeMPU6050(byte reg, byte data);
   byte readMPU6050(byte reg);
