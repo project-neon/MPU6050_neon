@@ -1,4 +1,4 @@
-#include "MPU6050_tockn.h"
+#include "MPU6050_neon.h"
 #include "Arduino.h"
 
 MPU6050::MPU6050(TwoWire &w){

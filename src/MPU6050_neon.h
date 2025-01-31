@@ -1,5 +1,5 @@
-#ifndef MPU6050_TOCKN_H
-#define MPU6050_TOCKN_H
+#ifndef MPU6050_NEON_H
+#define MPU6050_NEON_H
 
 #include "Arduino.h"
 #include "Wire.h"
